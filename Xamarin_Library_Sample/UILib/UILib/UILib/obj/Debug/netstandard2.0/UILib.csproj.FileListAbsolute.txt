@@ -1,0 +1,13 @@
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\bin\Debug\netstandard2.0\UILib.deps.json
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\bin\Debug\netstandard2.0\UILib.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\bin\Debug\netstandard2.0\ref\UILib.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\bin\Debug\netstandard2.0\UILib.pdb
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.csprojAssemblyReference.cache
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.AssemblyInfo.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\ref\UILib.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.pdb
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
