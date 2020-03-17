@@ -3,7 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using UILib.Models;
+using UILib.Views.PageViews;
+using UILib.Views.PageViews.CarouselPages;
+using UILib.Views.PageViews.MasterDetailPages;
+using UILib.Views.PageViews.ModalPages;
+using UILib.Views.PageViews.NavigationPages;
+using UILib.Views.PageViews.TabbedPages;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,12 +23,34 @@ namespace UILib.Views
             InitializeComponent();
         }
 
-        private void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        private async void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             //ListView de seçtiğimiz bir öğeyi tekrar seçebilmemiz için bu kod parçacığını kullanıyoruz.
             if (e.SelectedItem == null) return;
 
             if (sender is ListView lv) lv.SelectedItem = null;
+
+            switch ((e.SelectedItem as UIModel)?.Name)
+            {
+                case "Content Page":
+                    await Navigation.PushAsync(new ContentPageSampleView());
+                    break;
+                case "Master Detail Page":
+                    await Navigation.PushAsync(new MasterDetailPageSampleView());
+                    break;
+                case "Navigation Page":
+                    await Navigation.PushAsync(new NavigationPageSampleView());
+                    break;
+                case "Tabbed Page":
+                    await Navigation.PushAsync(new TabbedPageSimpleView());
+                    break;
+                case "Carousel Page":
+                    await Navigation.PushAsync(new CarouselPageSimpleView());
+                    break;
+                case "Modal Page":
+                    await Navigation.PushAsync(new ModalPageSampleView());
+                    break;
+            }
         }
     }
 }

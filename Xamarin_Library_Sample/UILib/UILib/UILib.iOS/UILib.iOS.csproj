@@ -132,4 +132,7 @@
       <Name>UILib</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\first.png" />
+  </ItemGroup>
 </Project>

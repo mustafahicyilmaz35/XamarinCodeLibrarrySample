@@ -11,3 +11,19 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\ref\UILib.dll
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\UILib.pdb
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\ContentPages\ContentPageSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\MasterDetailPages\MasterDetailPageSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\MasterDetailPages\FirstPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\MasterDetailPages\SecondPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\MasterDetailPages\ThirdPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\NavigationPages\NavigationPageSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\TabbedPages\TabbedPageSimpleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\TabbedPages\TabOnePage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\TabbedPages\TabThreePage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\TabbedPages\TabTwoPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\CarouselPages\CarouselPageSimpleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\CarouselPages\Item _1.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\CarouselPages\Item_2.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\CarouselPages\Item_3.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\ModalPages\DetailPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\PageViews\ModalPages\ModalPageSampleView.xaml.g.cs

@@ -470,3 +470,4 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\first.png

@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
+using System.Windows.Input;
 using UILib.Annotations;
 using UILib.Models;
+using UILib.Views.PageViews;
+using Xamarin.Forms;
 
 namespace UILib.ViewModels
 {
@@ -25,6 +28,13 @@ namespace UILib.ViewModels
 
         }
 
+
+        //public ICommand ContentPageCommand => new Command(GoToContentPageSampleAsync);
+
+        //private async void GoToContentPageSampleAsync()
+        //{
+        //    await Application.Current.MainPage.Navigation.PushAsync(new ContentPageSampleView());
+        //}
 
 
         public MainPageViewModel()

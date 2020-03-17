@@ -15,7 +15,7 @@
 
     <ContentPage.Content>
         <StackLayout>
-            <ListView ItemsSource="{Binding MyUserUI}" ItemSelected="ListView_OnItemSelected">
+            <ListView ItemsSource="{Binding MyUserUI}" ItemSelected="ListView_OnItemSelected" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
