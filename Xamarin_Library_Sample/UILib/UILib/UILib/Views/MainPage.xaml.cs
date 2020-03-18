@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UILib.Models;
+using UILib.Views.LayoutViews;
 using UILib.Views.PageViews;
 using UILib.Views.PageViews.CarouselPages;
 using UILib.Views.PageViews.MasterDetailPages;
@@ -49,6 +50,18 @@ namespace UILib.Views
                     break;
                 case "Modal Page":
                     await Navigation.PushAsync(new ModalPageSampleView());
+                    break;
+                case "Stack Layout":
+                    await Navigation.PushAsync(new StackLayoutSampleView());
+                    break;
+                case "Relative Layout":
+                    await Navigation.PushAsync(new RelativeLayoutSampleView());
+                    break;
+                case "Absolute Layout":
+                    await Navigation.PushAsync(new AbsoluteLayoutSimpleView());
+                    break;
+                case "Grid":
+                    await Navigation.PushAsync(new GradSampleView());
                     break;
             }
         }
