@@ -11,6 +11,7 @@ using UILib.Views.PageViews.MasterDetailPages;
 using UILib.Views.PageViews.ModalPages;
 using UILib.Views.PageViews.NavigationPages;
 using UILib.Views.PageViews.TabbedPages;
+using UILib.Views.UserControls;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -62,6 +63,18 @@ namespace UILib.Views
                     break;
                 case "Grid":
                     await Navigation.PushAsync(new GridSampleView());
+                    break;
+                case "Flex Layout":
+                    await Navigation.PushAsync(new FlexLayoutSampleView());
+                    break;
+                case "Image":
+                    await Navigation.PushAsync(new ImageSampleView());
+                    break;
+                case "BoxView":
+                    await Navigation.PushAsync(new BoxViewSampleView());
+                    break;
+                case "WebView":
+                    await Navigation.PushAsync(new WebViewSampleView());
                     break;
             }
         }
