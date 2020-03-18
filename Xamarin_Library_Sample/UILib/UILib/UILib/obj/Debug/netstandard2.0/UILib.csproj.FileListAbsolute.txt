@@ -30,4 +30,4 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\LayoutViews\StackLayoutSampleView.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\LayoutViews\RelativeLayoutSampleView.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\LayoutViews\AbsoluteLayoutSimpleView.xaml.g.cs
-C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\LayoutViews\GradSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\LayoutViews\GridSampleView.xaml.g.cs

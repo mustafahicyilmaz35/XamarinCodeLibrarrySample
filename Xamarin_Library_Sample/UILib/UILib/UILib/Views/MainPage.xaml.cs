@@ -61,7 +61,7 @@ namespace UILib.Views
                     await Navigation.PushAsync(new AbsoluteLayoutSimpleView());
                     break;
                 case "Grid":
-                    await Navigation.PushAsync(new GradSampleView());
+                    await Navigation.PushAsync(new GridSampleView());
                     break;
             }
         }

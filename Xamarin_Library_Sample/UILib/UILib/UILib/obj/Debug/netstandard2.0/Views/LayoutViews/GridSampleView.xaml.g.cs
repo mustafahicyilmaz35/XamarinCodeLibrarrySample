@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.LayoutViews.GradSampleView.xaml", "Views/LayoutViews/GradSampleView.xaml", typeof(global::UILib.Views.LayoutViews.GradSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.LayoutViews.GridSampleView.xaml", "Views/LayoutViews/GridSampleView.xaml", typeof(global::UILib.Views.LayoutViews.GridSampleView))]
 
 namespace UILib.Views.LayoutViews {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LayoutViews\\GradSampleView.xaml")]
-    public partial class GradSampleView : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LayoutViews\\GridSampleView.xaml")]
+    public partial class GridSampleView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(GradSampleView));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(GridSampleView));
         }
     }
 }

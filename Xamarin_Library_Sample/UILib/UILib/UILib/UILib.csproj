@@ -16,6 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Views\LayoutViews\GridSampleView.xaml.cs">
+      <DependentUpon>GridSampleView.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\PageViews\CarouselPages\Item _1.xaml.cs">
       <DependentUpon>Item _1.xaml</DependentUpon>
     </Compile>
@@ -25,7 +28,7 @@
     <EmbeddedResource Update="Views\LayoutViews\AbsoluteLayoutSimpleView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\LayoutViews\GradSampleView.xaml">
+    <EmbeddedResource Update="Views\LayoutViews\GridSampleView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\LayoutViews\RelativeLayoutSampleView.xaml">

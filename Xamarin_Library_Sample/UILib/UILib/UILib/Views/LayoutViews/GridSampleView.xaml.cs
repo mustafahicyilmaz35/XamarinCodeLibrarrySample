@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace UILib.Views.LayoutViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class GradSampleView : ContentPage
+    public partial class GridSampleView : ContentPage
     {
-        public GradSampleView()
+        public GridSampleView()
         {
             InitializeComponent();
         }
