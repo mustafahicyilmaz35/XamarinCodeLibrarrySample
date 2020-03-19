@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:UILib.Views.UserControls.Steppers;assembly=UILib"
+             mc:Ignorable="d"
+             x:Class="UILib.Views.UserControls.Steppers.StepperSampleView"
+             Title="Stepper">
+    <ContentPage.Content>
+        <TableView Intent="Menu">
+            <TableRoot>
+                <TableSection>
+
+
+                    <TextCell Text="Basic Stepper XAML" 
+                              Detail="Implement a Stepper in XAML"
+                              Command="{Binding NavigateCommand}"
+                              CommandParameter="{x:Type local:BasicStepperPage}" />
+
+                    <TextCell Text="Basic Stepper Bindings" 
+                              Detail="Implement a Stepper with data bindings"
+                              Command="{Binding NavigateCommand}"
+                              CommandParameter="{x:Type local:BasicStepperBindingPage}" />
+                </TableSection>
+                </TableRoot>
+            </TableView>
+    </ContentPage.Content>
+</ContentPage>

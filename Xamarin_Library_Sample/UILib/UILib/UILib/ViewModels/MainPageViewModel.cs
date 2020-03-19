@@ -55,8 +55,8 @@ namespace UILib.ViewModels
                 new UIModel{UIType = "View", Name = "Image"},
                 new UIModel{UIType = "View", Name = "BoxView"},
                 new UIModel{UIType = "View", Name = "WebView"},
-                //new UIModel{UIType = "View", Name = "OpenGLView"} // Advanced
-                // new UIModel{UIType = "View", Name = "Map"},
+                new UIModel{UIType = "View", Name = "OpenGLView"}, // Advanced
+                new UIModel{UIType = "View", Name = "Map"},
                 //new UIModel{UIType = "View", Name = "Media Element"},
                 new UIModel{UIType = "View", Name = "Button"},
                 new UIModel{UIType = "View", Name = "ImageButton"},

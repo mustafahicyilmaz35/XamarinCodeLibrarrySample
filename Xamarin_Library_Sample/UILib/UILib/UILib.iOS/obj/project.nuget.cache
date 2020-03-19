@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7QFuISFFy5SnZpSvZ0aQo1EeAacvbgzzeKSsWjj6E25cWqBLF9s46b+yhw+PyY7+jL22HlrVnQ8mZnu6logtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\UILib.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\opentk.netstandard\\1.0.2\\opentk.netstandard.1.0.2.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\xamarin.forms.maps\\4.5.0.396\\xamarin.forms.maps.4.5.0.396.nupkg.sha512"
+  ],
+  "logs": []
+}

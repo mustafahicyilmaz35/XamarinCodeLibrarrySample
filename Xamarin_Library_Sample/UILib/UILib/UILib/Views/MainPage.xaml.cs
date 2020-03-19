@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UILib.Models;
+using UILib.Views.ButtonViews;
+using UILib.Views.CheckBoxes;
 using UILib.Views.LayoutViews;
 using UILib.Views.PageViews;
 using UILib.Views.PageViews.CarouselPages;
@@ -12,6 +14,9 @@ using UILib.Views.PageViews.ModalPages;
 using UILib.Views.PageViews.NavigationPages;
 using UILib.Views.PageViews.TabbedPages;
 using UILib.Views.UserControls;
+using UILib.Views.UserControls.OpenGLs;
+using UILib.Views.UserControls.Sliders;
+using UILib.Views.UserControls.Steppers;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -75,6 +80,24 @@ namespace UILib.Views
                     break;
                 case "WebView":
                     await Navigation.PushAsync(new WebViewSampleView());
+                    break;
+                case "OpenGLView":
+                    await Navigation.PushAsync(new OpenGLSampleView());
+                    break;
+                case "Button":
+                    await Navigation.PushAsync(new ButtonViewSample());
+                    break;
+                case "ImageButton":
+                    await Navigation.PushAsync(new ImageButtonSimpleView());
+                    break;
+                case "CheckBox":
+                    await Navigation.PushAsync(new CheckBoxSampleView());
+                    break;
+                case "Slider":
+                    await Navigation.PushAsync(new SliderSampleView());
+                    break;
+                case "Stepper":
+                    await Navigation.PushAsync(new StepperSampleView());
                     break;
             }
         }

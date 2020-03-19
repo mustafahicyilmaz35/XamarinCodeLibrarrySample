@@ -56,3 +56,5 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.csproj.CopyComplete
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.exe
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.pdb
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\bin\iPhoneSimulator\Debug\OpenTK.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.csproj.CoreCompileInputs.cache
