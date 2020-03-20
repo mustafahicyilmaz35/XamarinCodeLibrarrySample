@@ -1,7 +1,5 @@
-﻿using System;
-using UILib.Views;
+﻿using UILib.Views;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace UILib
 {
@@ -9,6 +7,12 @@ namespace UILib
     {
         public App()
         {
+            Device.SetFlags(new string[] { "MediaElement_Experimental"
+            });
+
+          
+
+
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());

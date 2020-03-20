@@ -14,9 +14,19 @@ using UILib.Views.PageViews.ModalPages;
 using UILib.Views.PageViews.NavigationPages;
 using UILib.Views.PageViews.TabbedPages;
 using UILib.Views.UserControls;
+using UILib.Views.UserControls.ActivityIndicators;
+using UILib.Views.UserControls.CarouselViews;
+using UILib.Views.UserControls.DatePickers;
+using UILib.Views.UserControls.MapViews;
 using UILib.Views.UserControls.OpenGLs;
+using UILib.Views.UserControls.ProgressBars;
+using UILib.Views.UserControls.RefreshViews;
+using UILib.Views.UserControls.SearchBarViews;
 using UILib.Views.UserControls.Sliders;
 using UILib.Views.UserControls.Steppers;
+using UILib.Views.UserControls.SwipeViews;
+using UILib.Views.UserControls.SwitchViews;
+using UILib.Views.UserControls.TextUserInterfaceses;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -98,6 +108,39 @@ namespace UILib.Views
                     break;
                 case "Stepper":
                     await Navigation.PushAsync(new StepperSampleView());
+                    break;
+                case "Map":
+                    await Navigation.PushAsync(new MapSampleViews());
+                    break;
+                case "Media Element":
+                    await Navigation.PushAsync(new MediaSampleView());
+                    break;
+                case "RefreshView":
+                    await Navigation.PushAsync(new RefreshViewSample());
+                    break;
+                case "SearchBar":
+                    await Navigation.PushAsync(new SearchBarSampleView());
+                    break;
+                case "SwipeView":
+                    await Navigation.PushAsync(new SwipeViewSample());
+                    break;
+                case "Switch":
+                    await Navigation.PushAsync(new SwitchSampleView());
+                    break;
+                case "Date Picker":
+                    await Navigation.PushAsync(new DatePickerSampleView());
+                    break;
+                case "Text Demos":
+                    await Navigation.PushAsync(new TextMainPage());
+                    break;
+                case "Activity Indicator":
+                    await Navigation.PushAsync(new ActivityIndicatorSampleView());
+                    break;
+                case "ProgressBar":
+                    await Navigation.PushAsync(new ProgressBarSampleView());
+                    break;
+                case "CarouselView":
+                    await Navigation.PushAsync(new CarouselViewSample());
                     break;
             }
         }

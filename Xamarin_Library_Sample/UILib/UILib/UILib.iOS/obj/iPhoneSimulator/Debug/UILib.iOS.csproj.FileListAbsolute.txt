@@ -58,3 +58,5 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.pdb
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\bin\iPhoneSimulator\Debug\OpenTK.dll
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\obj\iPhoneSimulator\Debug\UILib.iOS.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll

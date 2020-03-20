@@ -12,7 +12,8 @@
           "NETStandard.Library": "2.0.3",
           "OpenTK.NetStandard": "1.0.2",
           "Xamarin.Essentials": "1.5.1",
-          "Xamarin.Forms": "4.5.0.396"
+          "Xamarin.Forms": "4.5.0.396",
+          "Xamarin.Forms.Maps": "4.5.0.396"
         },
         "runtime": {
           "UILib.dll": {}
@@ -77,6 +78,17 @@
             "fileVersion": "4.5.0.158"
           }
         }
+      },
+      "Xamarin.Forms.Maps/4.5.0.396": {
+        "dependencies": {
+          "Xamarin.Forms": "4.5.0.396"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.5.0.158"
+          }
+        }
       }
     }
   },
@@ -134,6 +146,13 @@
       "sha512": "sha512-4yU8Dj83+/2PFTd76Q88G/fuVQ5MryvadGbc26ZqwQiLOUdMVLu5Otmzp51cWvJfwSgTI97fzPfE2urHKbF/XA==",
       "path": "xamarin.forms/4.5.0.396",
       "hashPath": "xamarin.forms.4.5.0.396.nupkg.sha512"
+    },
+    "Xamarin.Forms.Maps/4.5.0.396": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h4A8C65GHJXJiAWmqd6p96sEPnTrx+MlPsb5EbI5QSBufZ4/tO7wiH4SXYMiQxTggkW/OfACdIrEZN3LW3HD5w==",
+      "path": "xamarin.forms.maps/4.5.0.396",
+      "hashPath": "xamarin.forms.maps.4.5.0.396.nupkg.sha512"
     }
   }
 }
