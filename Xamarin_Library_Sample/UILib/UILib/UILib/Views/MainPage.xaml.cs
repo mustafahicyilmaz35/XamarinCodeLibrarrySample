@@ -16,16 +16,23 @@ using UILib.Views.PageViews.TabbedPages;
 using UILib.Views.UserControls;
 using UILib.Views.UserControls.ActivityIndicators;
 using UILib.Views.UserControls.CarouselViews;
+using UILib.Views.UserControls.CollectionViews;
 using UILib.Views.UserControls.DatePickers;
+using UILib.Views.UserControls.Frames;
+using UILib.Views.UserControls.IndicatorViews;
+using UILib.Views.UserControls.ListViews;
 using UILib.Views.UserControls.MapViews;
 using UILib.Views.UserControls.OpenGLs;
+using UILib.Views.UserControls.PickerViews;
 using UILib.Views.UserControls.ProgressBars;
 using UILib.Views.UserControls.RefreshViews;
+using UILib.Views.UserControls.ScrollViews;
 using UILib.Views.UserControls.SearchBarViews;
 using UILib.Views.UserControls.Sliders;
 using UILib.Views.UserControls.Steppers;
 using UILib.Views.UserControls.SwipeViews;
 using UILib.Views.UserControls.SwitchViews;
+using UILib.Views.UserControls.TableViews;
 using UILib.Views.UserControls.TextUserInterfaceses;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -141,6 +148,27 @@ namespace UILib.Views
                     break;
                 case "CarouselView":
                     await Navigation.PushAsync(new CarouselViewSample());
+                    break;
+                case "CollectionView":
+                    await Navigation.PushAsync(new CollectionSampleView());
+                    break;
+                case "IndicatorView":
+                    await Navigation.PushAsync(new IndicatorViewSample());
+                    break;
+                case "ListView":
+                    await Navigation.PushAsync(new ListViewSampleView());
+                    break;
+                case "Picker":
+                    await Navigation.PushAsync(new PickerViewSample());
+                    break;
+                case "TableView":
+                    await Navigation.PushAsync(new TableViewSample());
+                    break;
+                case "Frame":
+                    await Navigation.PushAsync(new FrameSample());
+                    break;
+                case "ScrollView":
+                    await Navigation.PushAsync(new ScrolViewSample());
                     break;
             }
         }

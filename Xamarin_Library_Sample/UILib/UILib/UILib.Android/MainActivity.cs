@@ -30,7 +30,8 @@ namespace UILib.Droid
             //Swipe View Flags hatalı
             // Forms.SetFlags("SwipeView_Experimental");
 
-            Forms.SetFlags("CollectionView_Experimental");
+            //Forms.SetFlags("CollectionView_Experimental");
+            Xamarin.Forms.Forms.SetFlags(new string[] { "CarouselView_Experimental", "IndicatorView_Experimental" });
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);

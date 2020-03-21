@@ -72,13 +72,13 @@ namespace UILib.ViewModels
                 new UIModel{UIType = "View", Name = "Activity Indicator"},
                 new UIModel{UIType = "View", Name = "ProgressBar"},
                 new UIModel{UIType = "View", Name = "CarouselView"},
-                //new UIModel{UIType = "View", Name = "CollectionView"},
-                //new UIModel{UIType = "View", Name = "IndicatorView"},
-                //new UIModel{UIType = "View", Name = "ListView"},
-                //new UIModel{UIType = "View", Name = "Picker"},
-                //new UIModel{UIType = "View", Name = "TableView"},
-                //new UIModel{UIType = "View", Name = "Frame"},
-                //new UIModel{UIType = "View", Name = "ScrollView"},
+                new UIModel{UIType = "View", Name = "CollectionView"},
+                new UIModel{UIType = "View", Name = "IndicatorView"},
+                new UIModel{UIType = "View", Name = "ListView"},
+                new UIModel{UIType = "View", Name = "Picker"},
+                new UIModel{UIType = "View", Name = "TableView"},
+                new UIModel{UIType = "View", Name = "Frame"},
+                new UIModel{UIType = "View", Name = "ScrollView"},
 
 
             };

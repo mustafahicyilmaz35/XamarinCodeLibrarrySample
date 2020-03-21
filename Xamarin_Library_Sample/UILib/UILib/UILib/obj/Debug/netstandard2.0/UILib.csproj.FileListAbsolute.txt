@@ -84,3 +84,15 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ActivityIndicators\ActivityIndicatorSampleView.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ProgressBars\ProgressBarSampleView.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\CarouselViews\CarouselViewSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\CollectionViews\CollectionSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\IndicatorViews\BasicIndicatorViewPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\IndicatorViews\ConfigurableIndicatorViewPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\IndicatorViews\IndicatorViewSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\IndicatorViews\TemplatedIndicatorViewPage.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ListViews\Basic\BasicList.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ListViews\ContextActions\ContextAction.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ListViews\ListViewSampleView.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\PickerViews\PickerViewSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\TableViews\TableViewSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\Frames\FrameSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ScrollViews\ScrolViewSample.xaml.g.cs

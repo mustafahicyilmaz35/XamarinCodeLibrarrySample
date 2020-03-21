@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModel="clr-namespace:UILib.ViewModels.ListViewModels;assembly=UILib"
+             mc:Ignorable="d"
+             x:Class="UILib.Views.UserControls.ListViews.Basic.BasicList"
+             Padding="0,20,0,0"
+             Title="Basic ListView">
+    <ContentPage.BindingContext>
+        <viewModel:ListViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="personListView" ItemsSource="{Binding People}" ItemSelected="PersonListView_OnItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Düzenle" IsDestructive="True" Clicked="Edit_OnClicked" CommandParameter="{Binding Name}"></MenuItem>
+                                <MenuItem Text="Sil" IsDestructive="True" Clicked="Delete_OnClicked" CommandParameter="{Binding Name}"></MenuItem>
+                            </ViewCell.ContextActions>
+                            <Label Text="{Binding Name}"></Label>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

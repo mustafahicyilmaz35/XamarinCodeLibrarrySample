@@ -556,3 +556,10 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\raw\samplevideo.mp4
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\saruscrane.jpg
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\paradiseflycatcher.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\iphone6.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd6.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd1.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd2.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd3.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd4.jpg
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib.Android\obj\Debug\90\res\drawable\disneylnd5.jpg
