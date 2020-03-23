@@ -19,9 +19,9 @@ namespace UILib.ViewModels.CommonServicesViewModel.EssentialViewModels
         {
             Services = new List<CommonServiceModel>
             {
-                new CommonServiceModel{ServiceName = "Accelerometer "},
-                new CommonServiceModel{ServiceName = "App Information "},
-                new CommonServiceModel{ServiceName = "App Theme "},
+                new CommonServiceModel{ServiceName = "Accelerometer"},
+                new CommonServiceModel{ServiceName = "App Information"},
+                new CommonServiceModel{ServiceName = "App Theme"},
                 new CommonServiceModel{ServiceName = "Barometer"},
                 new CommonServiceModel{ServiceName = "Battery"},
                 new CommonServiceModel{ServiceName = "Clipboard"},

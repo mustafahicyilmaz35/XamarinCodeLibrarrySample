@@ -18,6 +18,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Services\CommonServices\EssentialServices\AccelerometerPage.xaml.cs">
+      <DependentUpon>AccelerometerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Services\CommonServices\EssentialServices\BarometerPage.xaml.cs">
+      <DependentUpon>BarometerPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\LayoutViews\GridSampleView.xaml.cs">
       <DependentUpon>GridSampleView.xaml</DependentUpon>
     </Compile>
@@ -30,6 +36,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Services\CommonServices\EssentialServices\AccelerometerPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Services\CommonServices\EssentialServices\AppInfoPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Services\CommonServices\EssentialServices\AppThemePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Services\CommonServices\EssentialServices\BarometerPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Views\CommonServiceMainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -288,9 +306,5 @@
     <EmbeddedResource Update="Views\UserControls\WebViewSampleView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services\CommonServices\EssentialServices\" />
   </ItemGroup>
 </Project>
