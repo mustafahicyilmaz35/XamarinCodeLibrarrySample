@@ -41,6 +41,7 @@ namespace UILib.ViewModels
         {
             MyUserUI = new List<UIModel>
             {
+                new UIModel{UIType = "Services", Name = "XAMARİN COMMON SERVİCES"},
                 new UIModel{UIType = "Layout", Name = "Stack Layout"},
                 new UIModel{UIType = "Layout", Name = "Relative Layout"},
                 new UIModel{UIType = "Layout", Name = "Absolute Layout"},

@@ -56,6 +56,9 @@ namespace UILib.Views
 
             switch ((e.SelectedItem as UIModel)?.Name)
             {
+                case "XAMARİN COMMON SERVİCES":
+                    await Navigation.PushAsync(new CommonServiceMainPage());
+                    break;
                 case "Content Page":
                     await Navigation.PushAsync(new ContentPageSampleView());
                     break;

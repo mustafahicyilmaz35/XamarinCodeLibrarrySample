@@ -96,3 +96,4 @@ C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\TableViews\TableViewSample.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\Frames\FrameSample.xaml.g.cs
 C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\UserControls\ScrollViews\ScrolViewSample.xaml.g.cs
+C:\Users\musta\Desktop\Xamarin_Library_Sample\Xamarin_Library_Sample\UILib\UILib\UILib\obj\Debug\netstandard2.0\Views\CommonServiceMainPage.xaml.g.cs
