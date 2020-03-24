@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Text;
 using Xamarin.Forms;
 
-namespace UILib.Views.UserControls.IndicatorViews
+namespace XamarinCodeLibrary.Views.UserControls.IndicatorViews
 {
     public class EnumPicker : Picker
     {

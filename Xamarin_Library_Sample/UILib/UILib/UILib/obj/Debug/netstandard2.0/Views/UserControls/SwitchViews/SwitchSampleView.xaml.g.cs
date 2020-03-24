@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SwitchViews.SwitchSampleView.xaml", "Views/UserControls/SwitchViews/SwitchSampleView.xaml", typeof(global::UILib.Views.UserControls.SwitchViews.SwitchSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SwitchViews.SwitchSampleView.xaml", "Views/UserControls/SwitchViews/SwitchSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.SwitchViews.SwitchSampleView))]
 
-namespace UILib.Views.UserControls.SwitchViews {
+namespace XamarinCodeLibrary.Views.UserControls.SwitchViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\SwitchViews\\SwitchSampleView.xaml")]

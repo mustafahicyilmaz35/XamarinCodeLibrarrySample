@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ActivityIndicators
+namespace XamarinCodeLibrary.Views.UserControls.ActivityIndicators
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ActivityIndicatorSampleView : ContentPage

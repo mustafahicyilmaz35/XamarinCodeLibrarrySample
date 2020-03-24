@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.PageViews.ModalPages.ModalPageSampleView">
+             x:Class="XamarinCodeLibrary.Views.PageViews.ModalPages.ModalPageSampleView">
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0,40,0,0" />

@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.SearchBarViews.SearchBarRealTimePage"
+             x:Class="XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarRealTimePage"
              Padding="10">
     <ContentPage.Content>
         <StackLayout>

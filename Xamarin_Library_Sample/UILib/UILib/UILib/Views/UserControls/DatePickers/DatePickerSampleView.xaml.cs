@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.DatePickers
+namespace XamarinCodeLibrary.Views.UserControls.DatePickers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DatePickerSampleView : ContentPage

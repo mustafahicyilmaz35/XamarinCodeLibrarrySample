@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.TextMainPage.xaml", "Views/UserControls/TextUserInterfaceses/TextMainPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.TextMainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.TextMainPage.xaml", "Views/UserControls/TextUserInterfaceses/TextMainPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.TextMainPage))]
 
 namespace UILib.Views.UserControls.TextUserInterfaceses {
     

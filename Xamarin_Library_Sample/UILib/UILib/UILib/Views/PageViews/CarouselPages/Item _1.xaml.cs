@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.PageViews.CarouselPages
+namespace XamarinCodeLibrary.Views.PageViews.CarouselPages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Item_1 : ContentPage

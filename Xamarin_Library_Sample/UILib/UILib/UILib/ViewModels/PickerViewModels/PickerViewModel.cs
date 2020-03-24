@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using UILib.Annotations;
 
-namespace UILib.ViewModels.PickerViewModels
+namespace XamarinCodeLibrary.ViewModels.PickerViewModels
 {
     public class PickerViewModel : INotifyPropertyChanged
     {

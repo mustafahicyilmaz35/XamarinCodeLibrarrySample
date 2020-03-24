@@ -4,9 +4,9 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
 using UILib.Annotations;
-using UILib.Models;
+using XamarinCodeLibrary.Models;
 
-namespace UILib.ViewModels.CommonServicesViewModel.EssentialViewModels
+namespace XamarinCodeLibrary.ViewModels.CommonServicesViewModel.EssentialViewModels
 {
     public class CommonServiceMainPageViewModel : INotifyPropertyChanged
     {

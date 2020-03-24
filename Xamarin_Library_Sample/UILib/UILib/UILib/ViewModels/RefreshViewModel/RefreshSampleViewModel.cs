@@ -5,10 +5,10 @@ using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using UILib.Annotations;
-using UILib.Views.UserControls.RefreshViews.RefreshViewUtilites;
+using XamarinCodeLibrary.Views.UserControls.RefreshViews.RefreshViewUtilites;
 using Xamarin.Forms;
 
-namespace UILib.ViewModels.RefreshViewModel
+namespace XamarinCodeLibrary.ViewModels.RefreshViewModel
 {
     public class RefreshSampleViewModel : INotifyPropertyChanged
     {

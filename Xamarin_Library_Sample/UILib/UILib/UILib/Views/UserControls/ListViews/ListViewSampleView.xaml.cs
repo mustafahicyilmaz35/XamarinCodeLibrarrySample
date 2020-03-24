@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UILib.Views.UserControls.ListViews.Basic;
-using UILib.Views.UserControls.ListViews.ContextActions;
+using XamarinCodeLibrary.Views.UserControls.ListViews.Basic;
+using XamarinCodeLibrary.Views.UserControls.ListViews.ContextActions;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ListViews
+namespace XamarinCodeLibrary.Views.UserControls.ListViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ListViewSampleView : ContentPage

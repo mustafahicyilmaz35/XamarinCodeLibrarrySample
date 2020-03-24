@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
-using UILib.Annotations;
+
 using Xamarin.Forms;
 
-namespace UILib.ViewModels.HslColorViewModels
+namespace XamarinCodeLibrary.ViewModels.HslColorViewModels
 {
     public class HslColorViewModel : INotifyPropertyChanged
     {

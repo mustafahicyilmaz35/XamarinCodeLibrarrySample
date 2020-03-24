@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.TableViews
+namespace XamarinCodeLibrary.Views.UserControls.TableViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class TableViewSample : ContentPage

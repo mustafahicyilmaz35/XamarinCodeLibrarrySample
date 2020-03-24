@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.PageViews.NavigationPages.NavigationPageSampleView.xaml", "Views/PageViews/NavigationPages/NavigationPageSampleView.xaml", typeof(global::UILib.Views.PageViews.NavigationPages.NavigationPageSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.PageViews.NavigationPages.NavigationPageSampleView.xaml", "Views/PageViews/NavigationPages/NavigationPageSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.PageViews.NavigationPages.NavigationPageSampleView))]
 
-namespace UILib.Views.PageViews.NavigationPages {
+namespace XamarinCodeLibrary.Views.PageViews.NavigationPages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageViews\\NavigationPages\\NavigationPageSampleView.xaml")]

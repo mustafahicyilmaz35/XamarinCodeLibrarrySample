@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.ScrollViews.ScrolViewSample.xaml", "Views/UserControls/ScrollViews/ScrolViewSample.xaml", typeof(global::UILib.Views.UserControls.ScrollViews.ScrolViewSample))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.ScrollViews.ScrolViewSample.xaml", "Views/UserControls/ScrollViews/ScrolViewSample.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.ScrollViews.ScrolViewSample))]
 
-namespace UILib.Views.UserControls.ScrollViews {
+namespace XamarinCodeLibrary.Views.UserControls.ScrollViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\ScrollViews\\ScrolViewSample.xaml")]

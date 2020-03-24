@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.Models
+namespace XamarinCodeLibrary.Models
 {
     public class UIModel
     {
-        public String Name { get; set; }
-        public String UIType { get; set; }
+        public string Name { get; set; }
+        public string UIType { get; set; }
     }
 }

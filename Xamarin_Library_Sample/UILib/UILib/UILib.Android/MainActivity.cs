@@ -8,6 +8,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using Xamarin.Forms;
+using XamarinCodeLibrary;
 
 namespace UILib.Droid
 {

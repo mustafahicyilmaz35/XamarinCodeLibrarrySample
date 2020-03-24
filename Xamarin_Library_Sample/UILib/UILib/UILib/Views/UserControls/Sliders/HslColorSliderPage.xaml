@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:sliderViewModels="clr-namespace:UILib.ViewModels.HslColorViewModels;assembly=UILib"
+             xmlns:sliderViewModels="clr-namespace:XamarinCodeLibrary.ViewModels.HslColorViewModels;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.Sliders.HslColorSliderPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.Sliders.HslColorSliderPage">
     <ContentPage.BindingContext>
         <sliderViewModels:HslColorViewModel Color="Chocolate" />
     </ContentPage.BindingContext>

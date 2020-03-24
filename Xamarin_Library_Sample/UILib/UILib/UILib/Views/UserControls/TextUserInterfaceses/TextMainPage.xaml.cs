@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses;
 
 namespace UILib.Views.UserControls.TextUserInterfaceses
 {

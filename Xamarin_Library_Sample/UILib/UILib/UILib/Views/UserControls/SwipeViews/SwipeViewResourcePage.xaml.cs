@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.SwipeViews
+namespace XamarinCodeLibrary.Views.UserControls.SwipeViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SwipeViewResourcePage : ContentPage

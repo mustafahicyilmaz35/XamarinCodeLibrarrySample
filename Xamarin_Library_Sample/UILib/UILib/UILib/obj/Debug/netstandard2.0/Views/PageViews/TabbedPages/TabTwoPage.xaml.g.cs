@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.PageViews.TabbedPages.TabTwoPage.xaml", "Views/PageViews/TabbedPages/TabTwoPage.xaml", typeof(global::UILib.Views.PageViews.TabbedPages.TabTwoPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.PageViews.TabbedPages.TabTwoPage.xaml", "Views/PageViews/TabbedPages/TabTwoPage.xaml", typeof(global::XamarinCodeLibrary.Views.PageViews.TabbedPages.TabTwoPage))]
 
-namespace UILib.Views.PageViews.TabbedPages {
+namespace XamarinCodeLibrary.Views.PageViews.TabbedPages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageViews\\TabbedPages\\TabTwoPage.xaml")]

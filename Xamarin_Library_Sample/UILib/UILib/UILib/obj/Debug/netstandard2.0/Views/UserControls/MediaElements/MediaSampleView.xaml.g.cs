@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.MediaElements.MediaSampleView.xaml", "Views/UserControls/MediaElements/MediaSampleView.xaml", typeof(global::UILib.Views.UserControls.MediaSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.MediaElements.MediaSampleView.xaml", "Views/UserControls/MediaElements/MediaSampleView.xaml", typeof(global::UILib.Views.UserControls.MediaSampleView))]
 
 namespace UILib.Views.UserControls {
     

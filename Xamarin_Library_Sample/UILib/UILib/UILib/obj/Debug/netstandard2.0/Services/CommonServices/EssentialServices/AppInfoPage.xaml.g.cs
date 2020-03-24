@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Services.CommonServices.EssentialServices.AppInfoPage.xaml", "Services/CommonServices/EssentialServices/AppInfoPage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AppInfoPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Services.CommonServices.EssentialServices.AppInfoPage.xaml", "Services/CommonServices/EssentialServices/AppInfoPage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AppInfoPage))]
 
 namespace UILib.Services.CommonServices.EssentialServices {
     

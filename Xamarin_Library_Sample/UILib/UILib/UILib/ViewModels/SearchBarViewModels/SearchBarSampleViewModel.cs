@@ -5,10 +5,10 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows.Input;
 using UILib.Annotations;
-using UILib.Views.UserControls.SearchBarViews.SearchBarUtility;
+using XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarUtility;
 using Xamarin.Forms;
 
-namespace UILib.ViewModels.SearchBarViewModels
+namespace XamarinCodeLibrary.ViewModels.SearchBarViewModels
 {
     public class SearchBarSampleViewModel : INotifyPropertyChanged
     {

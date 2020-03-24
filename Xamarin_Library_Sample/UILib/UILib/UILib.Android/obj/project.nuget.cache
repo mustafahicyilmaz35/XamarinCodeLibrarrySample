@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cxsokqbQUZwkMZ4ul6unU8pIF9lvkfgG1GrcDG7noxiPWUl37aQ4jnFDVJS9tiAlGrU4so7OGZLd048gS+pG0w==",
+  "dgSpecHash": "tKZUDS4LD/8fOvCSZCKPettguVb24Q2YLGWsmqnKgvfWu0g5i2BTyucIgqgnbwkqleucXqs54jmHMa9vrLWYxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.Android\\UILib.Android.csproj",
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.Android\\XamarinCodeLibrary.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\opentk.netstandard\\1.0.2\\opentk.netstandard.1.0.2.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",

@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.SwipeViews.SwipeViewResourcePage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewResourcePage">
     <ContentPage.Resources>
         <SwipeItems x:Key="SwipeItems">
             <SwipeItem Text="Favorite"

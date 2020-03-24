@@ -7,7 +7,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.Sliders
+namespace XamarinCodeLibrary.Views.UserControls.Sliders
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SliderSampleView : ContentPage

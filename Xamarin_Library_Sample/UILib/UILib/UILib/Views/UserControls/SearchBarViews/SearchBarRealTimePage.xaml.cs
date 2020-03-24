@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UILib.Views.UserControls.SearchBarViews.SearchBarUtility;
+
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarUtility;
 
-namespace UILib.Views.UserControls.SearchBarViews
+namespace XamarinCodeLibrary.Views.UserControls.SearchBarViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SearchBarRealTimePage : ContentPage

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.PageViews.MasterDetailPages.SecondPage.xaml", "Views/PageViews/MasterDetailPages/SecondPage.xaml", typeof(global::UILib.Views.PageViews.MasterDetailPages.SecondPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.PageViews.MasterDetailPages.SecondPage.xaml", "Views/PageViews/MasterDetailPages/SecondPage.xaml", typeof(global::XamarinCodeLibrary.Views.PageViews.MasterDetailPages.SecondPage))]
 
-namespace UILib.Views.PageViews.MasterDetailPages {
+namespace XamarinCodeLibrary.Views.PageViews.MasterDetailPages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageViews\\MasterDetailPages\\SecondPage.xaml")]

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.RefreshViews
+namespace XamarinCodeLibrary.Views.UserControls.RefreshViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class RefreshViewSample : ContentPage

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.LayoutViews
+namespace XamarinCodeLibrary.Views.LayoutViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class StackLayoutSampleView : ContentPage

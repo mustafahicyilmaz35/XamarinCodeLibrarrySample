@@ -10,7 +10,7 @@ using System.Windows.Input;
 using UILib.Annotations;
 using Xamarin.Forms;
 
-namespace UILib.ViewModels.IndicatorViewModels
+namespace XamarinCodeLibrary.ViewModels.IndicatorViewModels
 {
     public class MonkeyViewModel : INotifyPropertyChanged
     {

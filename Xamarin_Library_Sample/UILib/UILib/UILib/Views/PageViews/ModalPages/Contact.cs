@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.Views.PageViews.ModalPages
+namespace XamarinCodeLibrary.Views.PageViews.ModalPages
 {
     public class Contact
     {

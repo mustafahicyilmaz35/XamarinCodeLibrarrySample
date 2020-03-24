@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.MapViews.MapAppPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.MapViews.MapAppPage">
     <ContentPage.Content>
         <StackLayout Margin="10">
             <Label Text="These buttons launch the built-in Maps app for the platform." />

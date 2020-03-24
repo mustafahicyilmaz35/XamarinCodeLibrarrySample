@@ -4,7 +4,6 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "UILib.Android.dll" comes first in this list. */
 		"UILib.Android.dll",
 		"FormsViewGroup.dll",
-		"UILib.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
@@ -53,6 +52,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.GooglePlayServices.Basement.dll",
 		"Xamarin.GooglePlayServices.Maps.dll",
 		"Xamarin.GooglePlayServices.Tasks.dll",
+		"XamarinCodeLibrary.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

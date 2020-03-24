@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.CarouselViews
+namespace XamarinCodeLibrary.Views.UserControls.CarouselViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CarouselViewSample : ContentPage

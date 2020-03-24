@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.ListViews.ContextActions.ContextAction.xaml", "Views/UserControls/ListViews/ContextActions/ContextAction.xaml", typeof(global::UILib.Views.UserControls.ListViews.ContextActions.ContextAction))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.ListViews.ContextActions.ContextAction.xaml" +
+    "", "Views/UserControls/ListViews/ContextActions/ContextAction.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.ListViews.ContextActions.ContextAction))]
 
-namespace UILib.Views.UserControls.ListViews.ContextActions {
+namespace XamarinCodeLibrary.Views.UserControls.ListViews.ContextActions {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\ListViews\\ContextActions\\ContextAction.xaml")]

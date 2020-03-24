@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ScrollViews
+namespace XamarinCodeLibrary.Views.UserControls.ScrollViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ScrolViewSample : ContentPage

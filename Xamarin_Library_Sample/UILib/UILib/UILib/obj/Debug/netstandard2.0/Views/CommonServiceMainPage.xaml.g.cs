@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.CommonServiceMainPage.xaml", "Views/CommonServiceMainPage.xaml", typeof(global::UILib.Views.CommonServiceMainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.CommonServiceMainPage.xaml", "Views/CommonServiceMainPage.xaml", typeof(global::XamarinCodeLibrary.Views.CommonServiceMainPage))]
 
-namespace UILib.Views {
+namespace XamarinCodeLibrary.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\CommonServiceMainPage.xaml")]

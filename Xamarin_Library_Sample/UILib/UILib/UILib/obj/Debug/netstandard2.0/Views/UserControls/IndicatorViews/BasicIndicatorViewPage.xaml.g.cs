@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.IndicatorViews.BasicIndicatorViewPage.xaml", "Views/UserControls/IndicatorViews/BasicIndicatorViewPage.xaml", typeof(global::UILib.Views.UserControls.IndicatorViews.BasicIndicatorViewPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.IndicatorViews.BasicIndicatorViewPage.xaml", "Views/UserControls/IndicatorViews/BasicIndicatorViewPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.IndicatorViews.BasicIndicatorViewPage))]
 
-namespace UILib.Views.UserControls.IndicatorViews {
+namespace XamarinCodeLibrary.Views.UserControls.IndicatorViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\IndicatorViews\\BasicIndicatorViewPage.xaml")]

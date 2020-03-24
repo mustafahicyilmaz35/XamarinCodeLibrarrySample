@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7QFuISFFy5SnZpSvZ0aQo1EeAacvbgzzeKSsWjj6E25cWqBLF9s46b+yhw+PyY7+jL22HlrVnQ8mZnu6logtw==",
+  "dgSpecHash": "b6JQidr2VpXLkNsUTEhPuh72FtP/s76JlI0VBJh9d+lwc+HO80hzQLVU5xeaH2iRn+fT3xUFQBtxmBfDudw9UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\UILib.iOS.csproj",
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\XamarinCodeLibrary.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\opentk.netstandard\\1.0.2\\opentk.netstandard.1.0.2.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",

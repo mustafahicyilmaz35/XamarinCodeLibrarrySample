@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.Models
+namespace XamarinCodeLibrary.Models
 {
     public class CommonServiceModel
     {

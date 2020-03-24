@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.Frames
+namespace XamarinCodeLibrary.Views.UserControls.Frames
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class FrameSample : ContentPage

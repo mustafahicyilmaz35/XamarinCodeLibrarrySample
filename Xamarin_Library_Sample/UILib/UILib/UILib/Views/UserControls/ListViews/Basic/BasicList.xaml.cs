@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UILib.ViewModels.ListViewModels;
+using XamarinCodeLibrary.ViewModels.ListViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ListViews.Basic
+namespace XamarinCodeLibrary.Views.UserControls.ListViews.Basic
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BasicList : ContentPage

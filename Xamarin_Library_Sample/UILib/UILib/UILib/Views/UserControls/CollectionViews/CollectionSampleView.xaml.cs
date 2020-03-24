@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.CollectionViews
+namespace XamarinCodeLibrary.Views.UserControls.CollectionViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CollectionSampleView : ContentPage

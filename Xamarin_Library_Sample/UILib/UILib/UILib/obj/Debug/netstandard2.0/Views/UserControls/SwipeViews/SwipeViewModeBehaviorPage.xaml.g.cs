@@ -8,19 +8,19 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage.xaml", "Views/UserControls/SwipeViews/SwipeViewModeBehaviorPage.xaml", typeof(global::UILib.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage.xaml", "Views/UserControls/SwipeViews/SwipeViewModeBehaviorPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage))]
 
-namespace UILib.Views.UserControls.SwipeViews {
+namespace XamarinCodeLibrary.Views.UserControls.SwipeViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\SwipeViews\\SwipeViewModeBehaviorPage.xaml")]
     public partial class SwipeViewModeBehaviorPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::UILib.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker modeEnumPicker;
+        private global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker modeEnumPicker;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::UILib.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker behaviorEnumPicker;
+        private global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker behaviorEnumPicker;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.SwipeView swipeView1;
@@ -31,8 +31,8 @@ namespace UILib.Views.UserControls.SwipeViews {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(SwipeViewModeBehaviorPage));
-            modeEnumPicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::UILib.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker>(this, "modeEnumPicker");
-            behaviorEnumPicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::UILib.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker>(this, "behaviorEnumPicker");
+            modeEnumPicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker>(this, "modeEnumPicker");
+            behaviorEnumPicker = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility.EnumPicker>(this, "behaviorEnumPicker");
             swipeView1 = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.SwipeView>(this, "swipeView1");
             swipeView2 = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.SwipeView>(this, "swipeView2");
         }

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.PageViews.MasterDetailPages
+namespace XamarinCodeLibrary.Views.PageViews.MasterDetailPages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MasterDetailPageSampleView : MasterDetailPage

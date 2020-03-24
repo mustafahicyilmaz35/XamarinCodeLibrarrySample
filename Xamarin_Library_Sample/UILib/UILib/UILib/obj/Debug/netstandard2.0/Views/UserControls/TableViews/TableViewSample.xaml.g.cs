@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TableViews.TableViewSample.xaml", "Views/UserControls/TableViews/TableViewSample.xaml", typeof(global::UILib.Views.UserControls.TableViews.TableViewSample))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TableViews.TableViewSample.xaml", "Views/UserControls/TableViews/TableViewSample.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.TableViews.TableViewSample))]
 
-namespace UILib.Views.UserControls.TableViews {
+namespace XamarinCodeLibrary.Views.UserControls.TableViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\TableViews\\TableViewSample.xaml")]

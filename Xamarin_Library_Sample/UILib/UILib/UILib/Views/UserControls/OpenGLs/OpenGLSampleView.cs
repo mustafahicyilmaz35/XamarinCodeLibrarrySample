@@ -5,7 +5,7 @@ using System.Text;
 using OpenTK.Graphics.ES30;
 using Xamarin.Forms;
 
-namespace UILib.Views.UserControls.OpenGLs
+namespace XamarinCodeLibrary.Views.UserControls.OpenGLs
 {
     public class OpenGLSampleView : ContentPage
     {

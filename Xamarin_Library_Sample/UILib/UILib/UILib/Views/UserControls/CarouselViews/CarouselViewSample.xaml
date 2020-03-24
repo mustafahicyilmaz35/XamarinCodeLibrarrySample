@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:viewModel="clr-namespace:UILib.ViewModels.CarouselViewModels;assembly=UILib"
+             xmlns:viewModel="clr-namespace:XamarinCodeLibrary.ViewModels.CarouselViewModels;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.CarouselViews.CarouselViewSample">
+             x:Class="XamarinCodeLibrary.Views.UserControls.CarouselViews.CarouselViewSample">
     <ContentPage.BindingContext>
         <viewModel:CarouselViewSampleViewModel/>
     </ContentPage.BindingContext>

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ListViews.ContextActions
+namespace XamarinCodeLibrary.Views.UserControls.ListViews.ContextActions
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ContextAction : ContentPage

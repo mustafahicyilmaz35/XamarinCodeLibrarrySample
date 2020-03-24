@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.App.xaml", "App.xaml", typeof(global::UILib.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.App.xaml", "App.xaml", typeof(global::XamarinCodeLibrary.App))]
 
-namespace UILib {
+namespace XamarinCodeLibrary {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]

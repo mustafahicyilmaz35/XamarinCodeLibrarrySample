@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.PickerViews
+namespace XamarinCodeLibrary.Views.UserControls.PickerViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class PickerViewSample : ContentPage

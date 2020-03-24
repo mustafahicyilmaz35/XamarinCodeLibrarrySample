@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.PageViews
+namespace XamarinCodeLibrary.Views.PageViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ContentPageSampleView : ContentPage

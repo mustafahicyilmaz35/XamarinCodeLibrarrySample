@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Text;
 using Xamarin.Forms;
 
-namespace UILib.Views.UserControls.SwipeViews.SwipeUtility
+namespace XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility
 {
     public class EnumPicker : Picker
     {

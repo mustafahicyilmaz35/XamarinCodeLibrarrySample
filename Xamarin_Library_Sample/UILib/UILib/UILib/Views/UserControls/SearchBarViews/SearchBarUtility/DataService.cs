@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace UILib.Views.UserControls.SearchBarViews.SearchBarUtility
+namespace XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarUtility
 {
     public static class DataService
     {

@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UILib.Models;
 using UILib.Services.CommonServices.EssentialServices;
+using XamarinCodeLibrary.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using  XamarinCodeLibrary.Services.CommonServices.EssentialServices;
+using BarometerPage = XamarinCodeLibrary.Services.CommonServices.EssentialServices.BarometerPage;
 
-namespace UILib.Views
+namespace XamarinCodeLibrary.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CommonServiceMainPage : ContentPage

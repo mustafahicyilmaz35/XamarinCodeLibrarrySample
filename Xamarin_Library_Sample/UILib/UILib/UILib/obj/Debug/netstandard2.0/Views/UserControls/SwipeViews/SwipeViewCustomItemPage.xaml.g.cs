@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SwipeViews.SwipeViewCustomItemPage.xaml", "Views/UserControls/SwipeViews/SwipeViewCustomItemPage.xaml", typeof(global::UILib.Views.UserControls.SwipeViews.SwipeViewCustomItemPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewCustomItemPage.xaml", "Views/UserControls/SwipeViews/SwipeViewCustomItemPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewCustomItemPage))]
 
-namespace UILib.Views.UserControls.SwipeViews {
+namespace XamarinCodeLibrary.Views.UserControls.SwipeViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\SwipeViews\\SwipeViewCustomItemPage.xaml")]

@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleView.xaml", "Views/UserControls/ActivityIndicators/ActivityIndicatorSampleView.xaml", typeof(global::UILib.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleV" +
+    "iew.xaml", "Views/UserControls/ActivityIndicators/ActivityIndicatorSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleView))]
 
-namespace UILib.Views.UserControls.ActivityIndicators {
+namespace XamarinCodeLibrary.Views.UserControls.ActivityIndicators {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\ActivityIndicators\\ActivityIndicatorSampleView.xaml")]

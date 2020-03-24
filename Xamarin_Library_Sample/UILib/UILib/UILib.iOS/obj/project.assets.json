@@ -171,7 +171,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "UILib/1.0.0": {
+      "XamarinCodeLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -181,10 +181,10 @@
           "Xamarin.Forms.Maps": "4.5.0.396"
         },
         "compile": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         }
       }
     },
@@ -358,7 +358,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "UILib/1.0.0": {
+      "XamarinCodeLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -368,10 +368,10 @@
           "Xamarin.Forms.Maps": "4.5.0.396"
         },
         "compile": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         }
       }
     },
@@ -545,7 +545,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "UILib/1.0.0": {
+      "XamarinCodeLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -555,10 +555,10 @@
           "Xamarin.Forms.Maps": "4.5.0.396"
         },
         "compile": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         }
       }
     },
@@ -732,7 +732,7 @@
           "lib/Xamarin.iOS10/Xamarin.Forms.Maps.iOS.dll": {}
         }
       },
-      "UILib/1.0.0": {
+      "XamarinCodeLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -742,10 +742,10 @@
           "Xamarin.Forms.Maps": "4.5.0.396"
         },
         "compile": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/UILib.dll": {}
+          "bin/placeholder/XamarinCodeLibrary.dll": {}
         }
       }
     }
@@ -1166,19 +1166,19 @@
         "xamarin.forms.maps.nuspec"
       ]
     },
-    "UILib/1.0.0": {
+    "XamarinCodeLibrary/1.0.0": {
       "type": "project",
-      "path": "../UILib/UILib.csproj",
-      "msbuildProject": "../UILib/UILib.csproj"
+      "path": "../UILib/XamarinCodeLibrary.csproj",
+      "msbuildProject": "../UILib/XamarinCodeLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "OpenTK.NetStandard >= 1.0.2",
-      "UILib >= 1.0.0",
       "Xamarin.Essentials >= 1.5.1",
       "Xamarin.Forms >= 4.5.0.396",
-      "Xamarin.Forms.Maps >= 4.5.0.396"
+      "Xamarin.Forms.Maps >= 4.5.0.396",
+      "XamarinCodeLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1188,9 +1188,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\UILib.iOS.csproj",
-      "projectName": "UILib.iOS",
-      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\UILib.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\XamarinCodeLibrary.iOS.csproj",
+      "projectName": "XamarinCodeLibrary.iOS",
+      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\XamarinCodeLibrary.iOS.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib.iOS\\obj\\",
       "projectStyle": "PackageReference",
@@ -1213,8 +1213,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\UILib.csproj": {
-              "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\UILib.csproj"
+            "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\XamarinCodeLibrary.csproj": {
+              "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\XamarinCodeLibrary.csproj"
             }
           }
         }

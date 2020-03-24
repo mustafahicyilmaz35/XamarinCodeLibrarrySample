@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.MapViews.PolygonsPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.MapViews.PolygonsPage">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="This map defines polygons and a polyline in XAML." />

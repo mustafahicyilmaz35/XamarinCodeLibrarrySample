@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using UILib.Annotations;
 
-namespace UILib.ViewModels.CarouselViewModels
+namespace XamarinCodeLibrary.ViewModels.CarouselViewModels
 {
     public class CarouselViewSampleViewModel : INotifyPropertyChanged
     {

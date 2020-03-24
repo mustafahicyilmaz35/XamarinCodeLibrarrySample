@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.Steppers
+namespace XamarinCodeLibrary.Views.UserControls.Steppers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BasicStepperPage : ContentPage

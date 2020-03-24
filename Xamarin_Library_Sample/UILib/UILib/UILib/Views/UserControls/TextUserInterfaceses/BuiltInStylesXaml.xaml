@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml"
+             x:Class="XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml"
              Title="Buit in Styles Demo">
     <ContentPage.Content>
         <StackLayout Spacing="10" Padding="10">

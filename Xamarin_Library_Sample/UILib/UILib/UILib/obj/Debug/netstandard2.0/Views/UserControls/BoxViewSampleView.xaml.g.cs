@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.BoxViewSampleView.xaml", "Views/UserControls/BoxViewSampleView.xaml", typeof(global::UILib.Views.UserControls.BoxViewSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.BoxViewSampleView.xaml", "Views/UserControls/BoxViewSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.BoxViewSampleView))]
 
-namespace UILib.Views.UserControls {
+namespace XamarinCodeLibrary.Views.UserControls {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\BoxViewSampleView.xaml")]

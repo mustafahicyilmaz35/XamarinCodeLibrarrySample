@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.CheckBoxes.BasicCheckBoxBindingPage"
+             x:Class="XamarinCodeLibrary.Views.CheckBoxes.BasicCheckBoxBindingPage"
              Title="Basic CheckBox Binding Page">
     <ContentPage.Content>
         <Grid Margin="20,35,20,20">

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.ProgressBars.ProgressBarSampleView.xaml", "Views/UserControls/ProgressBars/ProgressBarSampleView.xaml", typeof(global::UILib.Views.UserControls.ProgressBars.ProgressBarSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.ProgressBars.ProgressBarSampleView.xaml", "Views/UserControls/ProgressBars/ProgressBarSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.ProgressBars.ProgressBarSampleView))]
 
-namespace UILib.Views.UserControls.ProgressBars {
+namespace XamarinCodeLibrary.Views.UserControls.ProgressBars {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\ProgressBars\\ProgressBarSampleView.xaml")]

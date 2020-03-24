@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.ViewModels.IndicatorViewModels
+namespace XamarinCodeLibrary.ViewModels.IndicatorViewModels
 {
     public class Monkey
     {

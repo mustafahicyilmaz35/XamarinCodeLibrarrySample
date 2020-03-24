@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.Views.UserControls.CollectionViews
+namespace XamarinCodeLibrary.Views.UserControls.CollectionViews
 {
     public class ListItem
     {

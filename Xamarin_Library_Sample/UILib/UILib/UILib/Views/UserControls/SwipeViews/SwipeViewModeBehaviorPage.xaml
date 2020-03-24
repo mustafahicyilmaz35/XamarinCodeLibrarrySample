@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:controls="clr-namespace:UILib.Views.UserControls.SwipeViews.SwipeUtility;assembly=UILib"
+             xmlns:controls="clr-namespace:XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeUtility;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.SwipeViews.SwipeViewModeBehaviorPage">
     
     <StackLayout Margin="20">
         <StackLayout Orientation="Horizontal"

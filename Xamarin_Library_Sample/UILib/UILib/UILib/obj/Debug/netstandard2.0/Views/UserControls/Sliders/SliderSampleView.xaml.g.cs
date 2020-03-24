@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.Sliders.SliderSampleView.xaml", "Views/UserControls/Sliders/SliderSampleView.xaml", typeof(global::UILib.Views.UserControls.Sliders.SliderSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.Sliders.SliderSampleView.xaml", "Views/UserControls/Sliders/SliderSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.Sliders.SliderSampleView))]
 
-namespace UILib.Views.UserControls.Sliders {
+namespace XamarinCodeLibrary.Views.UserControls.Sliders {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\Sliders\\SliderSampleView.xaml")]

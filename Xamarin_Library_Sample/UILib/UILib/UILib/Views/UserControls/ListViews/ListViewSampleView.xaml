@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.ListViews.ListViewSampleView">
+             x:Class="XamarinCodeLibrary.Views.UserControls.ListViews.ListViewSampleView">
     <ContentPage.Content>
         <StackLayout>
             <Button Text="Basic ListView" Clicked="Button_OnClicked"/>

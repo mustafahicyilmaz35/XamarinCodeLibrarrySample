@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SearchBarViews.SearchBarRealTimePage.xaml", "Views/UserControls/SearchBarViews/SearchBarRealTimePage.xaml", typeof(global::UILib.Views.UserControls.SearchBarViews.SearchBarRealTimePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarRealTimePage.xaml", "Views/UserControls/SearchBarViews/SearchBarRealTimePage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarRealTimePage))]
 
-namespace UILib.Views.UserControls.SearchBarViews {
+namespace XamarinCodeLibrary.Views.UserControls.SearchBarViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\SearchBarViews\\SearchBarRealTimePage.xaml")]

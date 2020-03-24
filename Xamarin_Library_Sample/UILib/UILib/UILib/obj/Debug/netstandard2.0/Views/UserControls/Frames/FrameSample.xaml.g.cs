@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.Frames.FrameSample.xaml", "Views/UserControls/Frames/FrameSample.xaml", typeof(global::UILib.Views.UserControls.Frames.FrameSample))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.Frames.FrameSample.xaml", "Views/UserControls/Frames/FrameSample.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.Frames.FrameSample))]
 
-namespace UILib.Views.UserControls.Frames {
+namespace XamarinCodeLibrary.Views.UserControls.Frames {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\Frames\\FrameSample.xaml")]

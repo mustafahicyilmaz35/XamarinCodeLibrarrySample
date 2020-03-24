@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.ButtonViews.ImageButtonSimpleView.xaml", "Views/UserControls/ButtonViews/ImageButtonSimpleView.xaml", typeof(global::UILib.Views.ButtonViews.ImageButtonSimpleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.ButtonViews.ImageButtonSimpleView.xaml", "Views/UserControls/ButtonViews/ImageButtonSimpleView.xaml", typeof(global::XamarinCodeLibrary.Views.ButtonViews.ImageButtonSimpleView))]
 
-namespace UILib.Views.ButtonViews {
+namespace XamarinCodeLibrary.Views.ButtonViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\ButtonViews\\ImageButtonSimpleView.xaml")]

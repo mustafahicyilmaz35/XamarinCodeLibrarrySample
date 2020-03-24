@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.PageViews.ModalPages
+namespace XamarinCodeLibrary.Views.PageViews.ModalPages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DetailPage : ContentPage

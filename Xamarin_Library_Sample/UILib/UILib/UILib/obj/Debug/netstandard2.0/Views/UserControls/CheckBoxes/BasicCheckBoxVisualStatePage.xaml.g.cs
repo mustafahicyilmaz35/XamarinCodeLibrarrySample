@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.CheckBoxes.BasicCheckBoxVisualStatePage.xaml", "Views/UserControls/CheckBoxes/BasicCheckBoxVisualStatePage.xaml", typeof(global::UILib.Views.CheckBoxes.BasicCheckBoxVisualStatePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.CheckBoxes.BasicCheckBoxVisualStatePage.xam" +
+    "l", "Views/UserControls/CheckBoxes/BasicCheckBoxVisualStatePage.xaml", typeof(global::XamarinCodeLibrary.Views.CheckBoxes.BasicCheckBoxVisualStatePage))]
 
-namespace UILib.Views.CheckBoxes {
+namespace XamarinCodeLibrary.Views.CheckBoxes {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\CheckBoxes\\BasicCheckBoxVisualStatePage.xaml")]

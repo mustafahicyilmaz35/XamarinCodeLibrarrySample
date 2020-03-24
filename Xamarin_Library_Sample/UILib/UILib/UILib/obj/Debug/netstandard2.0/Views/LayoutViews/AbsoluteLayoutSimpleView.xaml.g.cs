@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.LayoutViews.AbsoluteLayoutSimpleView.xaml", "Views/LayoutViews/AbsoluteLayoutSimpleView.xaml", typeof(global::UILib.Views.LayoutViews.AbsoluteLayoutSimpleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.LayoutViews.AbsoluteLayoutSimpleView.xaml", "Views/LayoutViews/AbsoluteLayoutSimpleView.xaml", typeof(global::XamarinCodeLibrary.Views.LayoutViews.AbsoluteLayoutSimpleView))]
 
-namespace UILib.Views.LayoutViews {
+namespace XamarinCodeLibrary.Views.LayoutViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LayoutViews\\AbsoluteLayoutSimpleView.xaml")]

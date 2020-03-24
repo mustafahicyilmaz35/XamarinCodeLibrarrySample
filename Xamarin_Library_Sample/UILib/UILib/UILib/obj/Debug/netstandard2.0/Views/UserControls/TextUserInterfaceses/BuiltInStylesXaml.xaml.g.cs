@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml.xaml", "Views/UserControls/TextUserInterfaceses/BuiltInStylesXaml.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml.xaml" +
+    "", "Views/UserControls/TextUserInterfaceses/BuiltInStylesXaml.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.BuiltInStylesXaml))]
 
-namespace UILib.Views.UserControls.TextUserInterfaceses {
+namespace XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\TextUserInterfaceses\\BuiltInStylesXaml.xaml")]

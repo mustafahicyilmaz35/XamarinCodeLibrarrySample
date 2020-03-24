@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.SearchBarViews
+namespace XamarinCodeLibrary.Views.UserControls.SearchBarViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SearchBarMVVM : ContentPage

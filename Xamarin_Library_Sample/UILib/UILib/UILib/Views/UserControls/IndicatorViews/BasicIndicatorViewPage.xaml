@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:viewmodels="clr-namespace:UILib.ViewModels.IndicatorViewModels;assembly=UILib"
+             xmlns:viewmodels="clr-namespace:XamarinCodeLibrary.ViewModels.IndicatorViewModels;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.IndicatorViews.BasicIndicatorViewPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.IndicatorViews.BasicIndicatorViewPage">
     <ContentPage.BindingContext>
         <viewmodels:MonkeyViewModel />
     </ContentPage.BindingContext>

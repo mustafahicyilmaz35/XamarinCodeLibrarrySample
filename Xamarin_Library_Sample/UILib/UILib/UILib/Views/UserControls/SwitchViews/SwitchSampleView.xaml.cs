@@ -7,7 +7,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.SwitchViews
+namespace XamarinCodeLibrary.Views.UserControls.SwitchViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SwitchSampleView : ContentPage

@@ -1,7 +1,9 @@
 ﻿using UILib.Views;
 using Xamarin.Forms;
+using XamarinCodeLibrary.ViewModels;
+using XamarinCodeLibrary.Views;
 
-namespace UILib
+namespace XamarinCodeLibrary
 {
     public partial class App : Application
     {

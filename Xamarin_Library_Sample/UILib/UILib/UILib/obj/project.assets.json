@@ -724,9 +724,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\UILib.csproj",
-      "projectName": "UILib",
-      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\UILib.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\XamarinCodeLibrary.csproj",
+      "projectName": "XamarinCodeLibrary",
+      "projectPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\XamarinCodeLibrary.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\obj\\",
       "projectStyle": "PackageReference",

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls
+namespace XamarinCodeLibrary.Views.UserControls
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BoxViewSampleView : ContentPage

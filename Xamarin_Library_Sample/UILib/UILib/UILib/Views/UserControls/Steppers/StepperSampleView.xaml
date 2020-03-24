@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:local="clr-namespace:UILib.Views.UserControls.Steppers;assembly=UILib"
+             xmlns:local="clr-namespace:XamarinCodeLibrary.Views.UserControls.Steppers;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.Steppers.StepperSampleView"
+             x:Class="XamarinCodeLibrary.Views.UserControls.Steppers.StepperSampleView"
              Title="Stepper">
     <ContentPage.Content>
         <TableView Intent="Menu">

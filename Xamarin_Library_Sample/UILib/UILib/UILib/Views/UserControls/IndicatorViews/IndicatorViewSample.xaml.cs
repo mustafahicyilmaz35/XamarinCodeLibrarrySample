@@ -7,7 +7,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.IndicatorViews
+namespace XamarinCodeLibrary.Views.UserControls.IndicatorViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class IndicatorViewSample : ContentPage

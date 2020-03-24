@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.WebViewSampleView.xaml", "Views/UserControls/WebViewSampleView.xaml", typeof(global::UILib.Views.UserControls.WebViewSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.WebViewSampleView.xaml", "Views/UserControls/WebViewSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.WebViewSampleView))]
 
-namespace UILib.Views.UserControls {
+namespace XamarinCodeLibrary.Views.UserControls {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\WebViewSampleView.xaml")]

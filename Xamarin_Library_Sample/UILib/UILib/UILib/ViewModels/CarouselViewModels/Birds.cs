@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 
-namespace UILib.ViewModels.CarouselViewModels
+namespace XamarinCodeLibrary.ViewModels.CarouselViewModels
 {
     public class Birds
     {

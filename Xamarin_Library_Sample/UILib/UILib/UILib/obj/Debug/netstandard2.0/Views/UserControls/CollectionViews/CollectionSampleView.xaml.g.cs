@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.CollectionViews.CollectionSampleView.xaml", "Views/UserControls/CollectionViews/CollectionSampleView.xaml", typeof(global::UILib.Views.UserControls.CollectionViews.CollectionSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.CollectionViews.CollectionSampleView.xaml", "Views/UserControls/CollectionViews/CollectionSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.CollectionViews.CollectionSampleView))]
 
-namespace UILib.Views.UserControls.CollectionViews {
+namespace XamarinCodeLibrary.Views.UserControls.CollectionViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\CollectionViews\\CollectionSampleView.xaml")]

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 
-namespace UILib.Views.UserControls.RefreshViews.RefreshViewUtilites
+namespace XamarinCodeLibrary.Views.UserControls.RefreshViews.RefreshViewUtilites
 {
     public class Item
     {

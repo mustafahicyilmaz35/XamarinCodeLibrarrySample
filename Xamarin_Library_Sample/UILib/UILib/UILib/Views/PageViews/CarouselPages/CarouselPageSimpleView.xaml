@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:child="clr-namespace:UILib.Views.PageViews.CarouselPages;assembly=UILib"
+             xmlns:child="clr-namespace:XamarinCodeLibrary.Views.PageViews.CarouselPages;assembly=XamarinCodeLibrary"
              mc:Ignorable="d"
-             x:Class="UILib.Views.PageViews.CarouselPages.CarouselPageSimpleView"
+             x:Class="XamarinCodeLibrary.Views.PageViews.CarouselPages.CarouselPageSimpleView"
              Title="Carousel Page">
     
     <CarouselPage.Children>

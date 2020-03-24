@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.PageViews.ModalPages.ModalPageSampleView.xaml", "Views/PageViews/ModalPages/ModalPageSampleView.xaml", typeof(global::UILib.Views.PageViews.ModalPages.ModalPageSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.PageViews.ModalPages.ModalPageSampleView.xaml", "Views/PageViews/ModalPages/ModalPageSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.PageViews.ModalPages.ModalPageSampleView))]
 
-namespace UILib.Views.PageViews.ModalPages {
+namespace XamarinCodeLibrary.Views.PageViews.ModalPages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageViews\\ModalPages\\ModalPageSampleView.xaml")]

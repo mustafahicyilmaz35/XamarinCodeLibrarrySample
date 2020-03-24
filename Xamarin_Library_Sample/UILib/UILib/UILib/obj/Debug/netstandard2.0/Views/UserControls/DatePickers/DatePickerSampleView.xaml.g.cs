@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.DatePickers.DatePickerSampleView.xaml", "Views/UserControls/DatePickers/DatePickerSampleView.xaml", typeof(global::UILib.Views.UserControls.DatePickers.DatePickerSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.DatePickers.DatePickerSampleView.xaml", "Views/UserControls/DatePickers/DatePickerSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.DatePickers.DatePickerSampleView))]
 
-namespace UILib.Views.UserControls.DatePickers {
+namespace XamarinCodeLibrary.Views.UserControls.DatePickers {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\DatePickers\\DatePickerSampleView.xaml")]

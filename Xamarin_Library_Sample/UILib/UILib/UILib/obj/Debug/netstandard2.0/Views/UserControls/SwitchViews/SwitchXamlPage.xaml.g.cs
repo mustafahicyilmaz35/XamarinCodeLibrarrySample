@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SwitchViews.SwitchXamlPage.xaml", "Views/UserControls/SwitchViews/SwitchXamlPage.xaml", typeof(global::UILib.Views.UserControls.SwitchViews.SwitchXamlPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SwitchViews.SwitchXamlPage.xaml", "Views/UserControls/SwitchViews/SwitchXamlPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.SwitchViews.SwitchXamlPage))]
 
-namespace UILib.Views.UserControls.SwitchViews {
+namespace XamarinCodeLibrary.Views.UserControls.SwitchViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\SwitchViews\\SwitchXamlPage.xaml")]

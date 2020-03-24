@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.Steppers.BasicStepperPage.xaml", "Views/UserControls/Steppers/BasicStepperPage.xaml", typeof(global::UILib.Views.UserControls.Steppers.BasicStepperPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.Steppers.BasicStepperPage.xaml", "Views/UserControls/Steppers/BasicStepperPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.Steppers.BasicStepperPage))]
 
-namespace UILib.Views.UserControls.Steppers {
+namespace XamarinCodeLibrary.Views.UserControls.Steppers {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\Steppers\\BasicStepperPage.xaml")]

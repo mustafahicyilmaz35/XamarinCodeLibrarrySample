@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Services.CommonServices.EssentialServices.BarometerPage.xaml", "Services/CommonServices/EssentialServices/BarometerPage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.BarometerPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Services.CommonServices.EssentialServices.BarometerPage.xaml", "Services/CommonServices/EssentialServices/BarometerPage.xaml", typeof(global::XamarinCodeLibrary.Services.CommonServices.EssentialServices.BarometerPage))]
 
-namespace UILib.Services.CommonServices.EssentialServices {
+namespace XamarinCodeLibrary.Services.CommonServices.EssentialServices {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Services\\CommonServices\\EssentialServices\\BarometerPage.xaml")]

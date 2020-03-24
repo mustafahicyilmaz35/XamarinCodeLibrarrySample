@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.OrderPageXaml.xaml", "Views/UserControls/TextUserInterfaceses/OrderPageXaml.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.OrderPageXaml))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.OrderPageXaml.xaml", "Views/UserControls/TextUserInterfaceses/OrderPageXaml.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.OrderPageXaml))]
 
 namespace UILib.Views.UserControls.TextUserInterfaceses {
     

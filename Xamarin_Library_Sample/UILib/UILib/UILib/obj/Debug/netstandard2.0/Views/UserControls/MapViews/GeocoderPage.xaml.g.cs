@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.MapViews.GeocoderPage.xaml", "Views/UserControls/MapViews/GeocoderPage.xaml", typeof(global::UILib.Views.UserControls.MapViews.GeocoderPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.MapViews.GeocoderPage.xaml", "Views/UserControls/MapViews/GeocoderPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.MapViews.GeocoderPage))]
 
-namespace UILib.Views.UserControls.MapViews {
+namespace XamarinCodeLibrary.Views.UserControls.MapViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\MapViews\\GeocoderPage.xaml")]

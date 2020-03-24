@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.ButtonViews
+namespace XamarinCodeLibrary.Views.ButtonViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ImageButtonSimpleView : ContentPage

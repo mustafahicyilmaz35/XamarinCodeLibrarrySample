@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.ViewModels.ListViewModels
+namespace XamarinCodeLibrary.ViewModels.ListViewModels
 {
     public class ListViewModel
     {

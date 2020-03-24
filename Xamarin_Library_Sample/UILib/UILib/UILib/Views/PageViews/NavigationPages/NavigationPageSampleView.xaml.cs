@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.PageViews.NavigationPages
+namespace XamarinCodeLibrary.Views.PageViews.NavigationPages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class NavigationPageSampleView : ContentPage

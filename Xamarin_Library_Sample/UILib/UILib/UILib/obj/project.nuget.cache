@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLdnWA76+sqU9aBB7z/jNgJeanHxBpRYLCQmrBH+rEnvW8oiGEsWAOVe58yL2eSbg/Dw0C3JClhFBQPBYWFh1w==",
+  "dgSpecHash": "RhrDsRC6tB/9Ti6q9iT6Svr2gjcwfVnELBkrHJF9l5NanYzkkM0QqmJarK3drj5H2xHIRUPU+uJdCzZrPne2Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\UILib.csproj",
+  "projectFilePath": "C:\\Users\\musta\\Desktop\\Xamarin_Library_Sample\\Xamarin_Library_Sample\\UILib\\UILib\\UILib\\XamarinCodeLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\musta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\musta\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

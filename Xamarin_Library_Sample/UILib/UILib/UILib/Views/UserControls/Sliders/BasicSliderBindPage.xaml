@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.Sliders.BasicSliderBindPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.Sliders.BasicSliderBindPage">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="ROTATING TEXT"

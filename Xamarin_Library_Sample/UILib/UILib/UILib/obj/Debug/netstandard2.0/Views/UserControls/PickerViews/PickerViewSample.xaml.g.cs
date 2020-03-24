@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.PickerViews.PickerViewSample.xaml", "Views/UserControls/PickerViews/PickerViewSample.xaml", typeof(global::UILib.Views.UserControls.PickerViews.PickerViewSample))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.PickerViews.PickerViewSample.xaml", "Views/UserControls/PickerViews/PickerViewSample.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.PickerViews.PickerViewSample))]
 
-namespace UILib.Views.UserControls.PickerViews {
+namespace XamarinCodeLibrary.Views.UserControls.PickerViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\PickerViews\\PickerViewSample.xaml")]

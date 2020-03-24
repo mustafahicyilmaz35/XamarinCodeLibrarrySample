@@ -7,7 +7,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.MapViews
+namespace XamarinCodeLibrary.Views.UserControls.MapViews
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MapSampleViews : ContentPage

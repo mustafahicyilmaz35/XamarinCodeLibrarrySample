@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.Sliders.RgbColorSliderPage.xaml", "Views/UserControls/Sliders/RgbColorSliderPage.xaml", typeof(global::UILib.Views.UserControls.Sliders.RgbColorSliderPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.Sliders.RgbColorSliderPage.xaml", "Views/UserControls/Sliders/RgbColorSliderPage.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.Sliders.RgbColorSliderPage))]
 
-namespace UILib.Views.UserControls.Sliders {
+namespace XamarinCodeLibrary.Views.UserControls.Sliders {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\Sliders\\RgbColorSliderPage.xaml")]

@@ -7,7 +7,7 @@ using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Services.CommonServices.EssentialServices
+namespace XamarinCodeLibrary.Services.CommonServices.EssentialServices
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class BarometerPage : ContentPage

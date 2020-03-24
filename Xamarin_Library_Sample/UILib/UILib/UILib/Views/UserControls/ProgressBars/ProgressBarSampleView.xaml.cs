@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace UILib.Views.UserControls.ProgressBars
+namespace XamarinCodeLibrary.Views.UserControls.ProgressBars
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ProgressBarSampleView : ContentPage

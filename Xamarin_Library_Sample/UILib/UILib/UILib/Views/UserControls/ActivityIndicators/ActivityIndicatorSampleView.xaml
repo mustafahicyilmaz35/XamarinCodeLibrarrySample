@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleView">
+             x:Class="XamarinCodeLibrary.Views.UserControls.ActivityIndicators.ActivityIndicatorSampleView">
     <ContentPage.Content>
         <StackLayout>
             <Label x:Name="runningStatusLabel"

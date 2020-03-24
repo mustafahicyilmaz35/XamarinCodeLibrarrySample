@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.PageViews.CarouselPages.Item _1.xaml", "Views/PageViews/CarouselPages/Item _1.xaml", typeof(global::UILib.Views.PageViews.CarouselPages.Item_1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.PageViews.CarouselPages.Item _1.xaml", "Views/PageViews/CarouselPages/Item _1.xaml", typeof(global::XamarinCodeLibrary.Views.PageViews.CarouselPages.Item_1))]
 
-namespace UILib.Views.PageViews.CarouselPages {
+namespace XamarinCodeLibrary.Views.PageViews.CarouselPages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PageViews\\CarouselPages\\Item _1.xaml")]

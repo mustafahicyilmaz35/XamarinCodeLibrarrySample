@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.PageViews.TabbedPages.TabThreePage"
+             x:Class="XamarinCodeLibrary.Views.PageViews.TabbedPages.TabThreePage"
              Title="Tab 3">
     <ContentPage.Content>
         <StackLayout>

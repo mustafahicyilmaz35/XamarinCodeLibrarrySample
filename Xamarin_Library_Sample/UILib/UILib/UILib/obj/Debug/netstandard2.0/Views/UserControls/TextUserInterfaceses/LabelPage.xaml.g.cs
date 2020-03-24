@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.LabelPage.xaml", "Views/UserControls/TextUserInterfaceses/LabelPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.LabelPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.LabelPage.xaml", "Views/UserControls/TextUserInterfaceses/LabelPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.LabelPage))]
 
 namespace UILib.Views.UserControls.TextUserInterfaceses {
     

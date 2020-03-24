@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="UILib.Views.UserControls.Steppers.BasicStepperPage">
+             x:Class="XamarinCodeLibrary.Views.UserControls.Steppers.BasicStepperPage">
     <ContentPage.Content>
         <StackLayout Margin="20">
             <Label x:Name="_rotatingLabel" 

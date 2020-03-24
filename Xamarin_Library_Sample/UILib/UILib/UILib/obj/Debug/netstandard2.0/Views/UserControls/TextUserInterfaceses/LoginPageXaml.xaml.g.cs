@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.LoginPageXaml.xaml", "Views/UserControls/TextUserInterfaceses/LoginPageXaml.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.LoginPageXaml))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.LoginPageXaml.xaml", "Views/UserControls/TextUserInterfaceses/LoginPageXaml.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.LoginPageXaml))]
 
 namespace UILib.Views.UserControls.TextUserInterfaceses {
     

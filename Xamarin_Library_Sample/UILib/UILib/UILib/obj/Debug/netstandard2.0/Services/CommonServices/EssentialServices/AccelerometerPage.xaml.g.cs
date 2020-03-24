@@ -8,7 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Services.CommonServices.EssentialServices.AccelerometerPage.xaml", "Services/CommonServices/EssentialServices/AccelerometerPage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AccelerometerPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Services.CommonServices.EssentialServices.AccelerometerPage.xa" +
+    "ml", "Services/CommonServices/EssentialServices/AccelerometerPage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AccelerometerPage))]
 
 namespace UILib.Services.CommonServices.EssentialServices {
     

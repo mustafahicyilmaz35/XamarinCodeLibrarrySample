@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.RefreshViews.RefreshViewSample.xaml", "Views/UserControls/RefreshViews/RefreshViewSample.xaml", typeof(global::UILib.Views.UserControls.RefreshViews.RefreshViewSample))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.RefreshViews.RefreshViewSample.xaml", "Views/UserControls/RefreshViews/RefreshViewSample.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.RefreshViews.RefreshViewSample))]
 
-namespace UILib.Views.UserControls.RefreshViews {
+namespace XamarinCodeLibrary.Views.UserControls.RefreshViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\RefreshViews\\RefreshViewSample.xaml")]

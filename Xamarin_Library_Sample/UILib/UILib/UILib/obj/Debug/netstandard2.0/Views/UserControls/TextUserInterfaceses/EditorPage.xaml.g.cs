@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.TextUserInterfaceses.EditorPage.xaml", "Views/UserControls/TextUserInterfaceses/EditorPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.EditorPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.TextUserInterfaceses.EditorPage.xaml", "Views/UserControls/TextUserInterfaceses/EditorPage.xaml", typeof(global::UILib.Views.UserControls.TextUserInterfaceses.EditorPage))]
 
 namespace UILib.Views.UserControls.TextUserInterfaceses {
     

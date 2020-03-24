@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.LayoutViews.GridSampleView.xaml", "Views/LayoutViews/GridSampleView.xaml", typeof(global::UILib.Views.LayoutViews.GridSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.LayoutViews.GridSampleView.xaml", "Views/LayoutViews/GridSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.LayoutViews.GridSampleView))]
 
-namespace UILib.Views.LayoutViews {
+namespace XamarinCodeLibrary.Views.LayoutViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LayoutViews\\GridSampleView.xaml")]

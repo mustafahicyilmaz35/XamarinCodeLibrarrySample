@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.LayoutViews.FlexLayoutSampleView.xaml", "Views/LayoutViews/FlexLayoutSampleView.xaml", typeof(global::UILib.Views.LayoutViews.FlexLayoutSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.LayoutViews.FlexLayoutSampleView.xaml", "Views/LayoutViews/FlexLayoutSampleView.xaml", typeof(global::XamarinCodeLibrary.Views.LayoutViews.FlexLayoutSampleView))]
 
-namespace UILib.Views.LayoutViews {
+namespace XamarinCodeLibrary.Views.LayoutViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\LayoutViews\\FlexLayoutSampleView.xaml")]

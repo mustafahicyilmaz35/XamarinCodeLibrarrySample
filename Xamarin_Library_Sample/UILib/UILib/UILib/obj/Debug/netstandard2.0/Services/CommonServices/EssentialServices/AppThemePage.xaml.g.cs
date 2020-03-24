@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Services.CommonServices.EssentialServices.AppThemePage.xaml", "Services/CommonServices/EssentialServices/AppThemePage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AppThemePage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Services.CommonServices.EssentialServices.AppThemePage.xaml", "Services/CommonServices/EssentialServices/AppThemePage.xaml", typeof(global::UILib.Services.CommonServices.EssentialServices.AppThemePage))]
 
 namespace UILib.Services.CommonServices.EssentialServices {
     

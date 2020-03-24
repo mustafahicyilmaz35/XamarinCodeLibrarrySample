@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.SearchBarViews.SearchBarSampleView.xaml", "Views/UserControls/SearchBarViews/SearchBarSampleView.xaml", typeof(global::UILib.Views.UserControls.SearchBarViews.SearchBarSampleView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.SearchBarViews.SearchBarSampleView.xaml", "Views/UserControls/SearchBarViews/SearchBarSampleView.xaml", typeof(global::UILib.Views.UserControls.SearchBarViews.SearchBarSampleView))]
 
 namespace UILib.Views.UserControls.SearchBarViews {
     

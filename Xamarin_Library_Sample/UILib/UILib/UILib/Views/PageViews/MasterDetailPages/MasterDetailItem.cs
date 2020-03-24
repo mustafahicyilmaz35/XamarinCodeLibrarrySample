@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UILib.Views.PageViews.MasterDetailPages
+namespace XamarinCodeLibrary.Views.PageViews.MasterDetailPages
 {
     public class MasterDetailItem
     {

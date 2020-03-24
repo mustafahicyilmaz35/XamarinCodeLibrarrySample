@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("UILib.Views.UserControls.MapViews.MapSampleViews.xaml", "Views/UserControls/MapViews/MapSampleViews.xaml", typeof(global::UILib.Views.UserControls.MapViews.MapSampleViews))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinCodeLibrary.Views.UserControls.MapViews.MapSampleViews.xaml", "Views/UserControls/MapViews/MapSampleViews.xaml", typeof(global::XamarinCodeLibrary.Views.UserControls.MapViews.MapSampleViews))]
 
-namespace UILib.Views.UserControls.MapViews {
+namespace XamarinCodeLibrary.Views.UserControls.MapViews {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\MapViews\\MapSampleViews.xaml")]
